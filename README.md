@@ -1,17 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/davicruz1/davicruz1/main/assets/banner.png" alt="banner" width="800"/>
+  <img src="https://i.giphy.com/5Zesu5VPNGJlm.webp" alt="banner animado" width="800"/>
 </p>
 
 <h1 align="center">Oi, sou o Davi :) 👋</h1>
 <p align="center">Estudo Ciência da Computação na Faculdade Impacta • Interessado em Cibersegurança 🔐</p>
 
 <p align="center">
-  <!-- Badges -->
+  <!-- Badge de seguidores -->
   <a href="https://github.com/davicruz1">
     <img alt="followers" src="https://img.shields.io/github/followers/davicruz1?style=social" />
   </a>
-  <img src="https://img.shields.io/badge/🎨-Aesthetic-pastel?style=flat-square" alt="theme"/>
-  <img src="https://img.shields.io/badge/📫-Contato-email-blue?style=flat-square" alt="contact"/>
 </p>
 
 ---
@@ -25,7 +23,6 @@
 ### 🛠 Tech stack
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3" />
 </p>
@@ -56,3 +53,4 @@
 ---
 
 <p align="center">✨ Obrigado por visitar! ✨</p>
+
