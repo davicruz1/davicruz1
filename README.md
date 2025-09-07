@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠 Tech stack
+### 🛠 Linguagens
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=python" />
 </p>
