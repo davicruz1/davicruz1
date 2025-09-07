@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Oi, sou o Davi :) 👋</h1>
-<p align="center">Estudo Ciência da Computação na Faculdade Impacta • Interessado em Cibersegurança 🔐</p>
+<p align="center">• Estudo Ciência da Computação na Faculdade Impacta • </p>
 
 <p align="center">
   <!-- Badge de seguidores -->
@@ -16,7 +16,7 @@
 
 ### ✨ Sobre
 - 🎓 Estudante de Ciência da Computação  
-- 💡 Interessado em **Cibersegurança**  
+- 💡 Interessado em **Cibersegurança e IA**  
 
 ---
 
