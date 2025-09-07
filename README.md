@@ -23,8 +23,6 @@
 ### 🛠 Tech stack
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3" />
 </p>
 
 ---
